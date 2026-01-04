@@ -1,0 +1,29 @@
+{
+  "name": "Yalin Consulting - Industrial-Organizational Psychology",
+  "short_name": "Yalin Consulting",
+  "description": "The Scientific Approach to People Strategy. I-O Psychology consultancy specializing in talent selection, leadership development, and organizational effectiveness.",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#0a0a0a",
+  "theme_color": "#BC0A0F",
+  "orientation": "portrait-primary",
+  "icons": [
+    {
+      "src": "/Assets/Favicon/android-chrome-192x192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "/Assets/Favicon/android-chrome-512x512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ],
+  "categories": ["business", "consulting", "education"],
+  "lang": "en-US",
+  "dir": "ltr",
+  "scope": "/",
+  "prefer_related_applications": false
+}

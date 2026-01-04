@@ -1,0 +1,200 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+        xmlns:xhtml="http://www.w3.org/1999/xhtml">
+    
+    <!-- ================================
+         HOMEPAGE (English - Default)
+         ================================ -->
+    <url>
+        <loc>https://yalin.consulting/</loc>
+        <xhtml:link rel="alternate" hreflang="en" href="https://yalin.consulting/"/>
+        <xhtml:link rel="alternate" hreflang="tr" href="https://yalin.consulting/tr/"/>
+        <xhtml:link rel="alternate" hreflang="x-default" href="https://yalin.consulting/"/>
+        <lastmod>2025-12-24</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>1.0</priority>
+    </url>
+    
+    <!-- ================================
+         TURKISH HOMEPAGE
+         ================================ -->
+    <url>
+        <loc>https://yalin.consulting/tr/</loc>
+        <xhtml:link rel="alternate" hreflang="en" href="https://yalin.consulting/"/>
+        <xhtml:link rel="alternate" hreflang="tr" href="https://yalin.consulting/tr/"/>
+        <lastmod>2025-12-24</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>1.0</priority>
+    </url>
+    
+    <!-- ================================
+         ABOUT PAGES
+         ================================ -->
+    <url>
+        <loc>https://yalin.consulting/en/about.html</loc>
+        <xhtml:link rel="alternate" hreflang="en" href="https://yalin.consulting/en/about.html"/>
+        <xhtml:link rel="alternate" hreflang="tr" href="https://yalin.consulting/tr/hakkimizda.html"/>
+        <lastmod>2025-12-24</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.9</priority>
+    </url>
+    <url>
+        <loc>https://yalin.consulting/tr/hakkimizda.html</loc>
+        <xhtml:link rel="alternate" hreflang="en" href="https://yalin.consulting/en/about.html"/>
+        <xhtml:link rel="alternate" hreflang="tr" href="https://yalin.consulting/tr/hakkimizda.html"/>
+        <lastmod>2025-12-24</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.9</priority>
+    </url>
+    
+    <!-- ================================
+         CONTACT PAGES
+         ================================ -->
+    <url>
+        <loc>https://yalin.consulting/en/contact.html</loc>
+        <xhtml:link rel="alternate" hreflang="en" href="https://yalin.consulting/en/contact.html"/>
+        <xhtml:link rel="alternate" hreflang="tr" href="https://yalin.consulting/tr/iletisim.html"/>
+        <lastmod>2025-12-24</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.9</priority>
+    </url>
+    <url>
+        <loc>https://yalin.consulting/tr/iletisim.html</loc>
+        <xhtml:link rel="alternate" hreflang="en" href="https://yalin.consulting/en/contact.html"/>
+        <xhtml:link rel="alternate" hreflang="tr" href="https://yalin.consulting/tr/iletisim.html"/>
+        <lastmod>2025-12-24</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.9</priority>
+    </url>
+    
+    <!-- ================================
+         SERVICE: TALENT SELECTION
+         ================================ -->
+    <url>
+        <loc>https://yalin.consulting/en/talent-selection.html</loc>
+        <xhtml:link rel="alternate" hreflang="en" href="https://yalin.consulting/en/talent-selection.html"/>
+        <xhtml:link rel="alternate" hreflang="tr" href="https://yalin.consulting/tr/yetenek-secimi.html"/>
+        <lastmod>2025-12-24</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.8</priority>
+    </url>
+    <url>
+        <loc>https://yalin.consulting/tr/yetenek-secimi.html</loc>
+        <xhtml:link rel="alternate" hreflang="en" href="https://yalin.consulting/en/talent-selection.html"/>
+        <xhtml:link rel="alternate" hreflang="tr" href="https://yalin.consulting/tr/yetenek-secimi.html"/>
+        <lastmod>2025-12-24</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.8</priority>
+    </url>
+    
+    <!-- ================================
+         SERVICE: LEARNING & DEVELOPMENT
+         ================================ -->
+    <url>
+        <loc>https://yalin.consulting/en/learning-development.html</loc>
+        <xhtml:link rel="alternate" hreflang="en" href="https://yalin.consulting/en/learning-development.html"/>
+        <xhtml:link rel="alternate" hreflang="tr" href="https://yalin.consulting/tr/ogrenme-gelisim.html"/>
+        <lastmod>2025-12-24</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.8</priority>
+    </url>
+    <url>
+        <loc>https://yalin.consulting/tr/ogrenme-gelisim.html</loc>
+        <xhtml:link rel="alternate" hreflang="en" href="https://yalin.consulting/en/learning-development.html"/>
+        <xhtml:link rel="alternate" hreflang="tr" href="https://yalin.consulting/tr/ogrenme-gelisim.html"/>
+        <lastmod>2025-12-24</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.8</priority>
+    </url>
+    
+    <!-- ================================
+         SERVICE: STRATEGIC HR
+         ================================ -->
+    <url>
+        <loc>https://yalin.consulting/en/organizational-strategy.html</loc>
+        <xhtml:link rel="alternate" hreflang="en" href="https://yalin.consulting/en/organizational-strategy.html"/>
+        <xhtml:link rel="alternate" hreflang="tr" href="https://yalin.consulting/tr/organizasyonel-strateji.html"/>
+        <lastmod>2025-12-24</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.8</priority>
+    </url>
+    <url>
+        <loc>https://yalin.consulting/tr/organizasyonel-strateji.html</loc>
+        <xhtml:link rel="alternate" hreflang="en" href="https://yalin.consulting/en/organizational-strategy.html"/>
+        <xhtml:link rel="alternate" hreflang="tr" href="https://yalin.consulting/tr/organizasyonel-strateji.html"/>
+        <lastmod>2025-12-24</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.8</priority>
+    </url>
+    
+    <!-- ================================
+         LEGAL: PRIVACY POLICY
+         ================================ -->
+    <url>
+        <loc>https://yalin.consulting/en/privacy-policy.html</loc>
+        <xhtml:link rel="alternate" hreflang="en" href="https://yalin.consulting/en/privacy-policy.html"/>
+        <xhtml:link rel="alternate" hreflang="tr" href="https://yalin.consulting/tr/gizlilik-politikasi.html"/>
+        <lastmod>2025-12-24</lastmod>
+        <changefreq>yearly</changefreq>
+        <priority>0.3</priority>
+    </url>
+    <url>
+        <loc>https://yalin.consulting/tr/gizlilik-politikasi.html</loc>
+        <xhtml:link rel="alternate" hreflang="en" href="https://yalin.consulting/en/privacy-policy.html"/>
+        <xhtml:link rel="alternate" hreflang="tr" href="https://yalin.consulting/tr/gizlilik-politikasi.html"/>
+        <lastmod>2025-12-24</lastmod>
+        <changefreq>yearly</changefreq>
+        <priority>0.3</priority>
+    </url>
+    
+    <!-- ================================
+         LEGAL: COOKIE POLICY
+         ================================ -->
+    <url>
+        <loc>https://yalin.consulting/en/cookie-policy.html</loc>
+        <xhtml:link rel="alternate" hreflang="en" href="https://yalin.consulting/en/cookie-policy.html"/>
+        <xhtml:link rel="alternate" hreflang="tr" href="https://yalin.consulting/tr/cerez-politikasi.html"/>
+        <lastmod>2025-12-24</lastmod>
+        <changefreq>yearly</changefreq>
+        <priority>0.3</priority>
+    </url>
+    <url>
+        <loc>https://yalin.consulting/tr/cerez-politikasi.html</loc>
+        <xhtml:link rel="alternate" hreflang="en" href="https://yalin.consulting/en/cookie-policy.html"/>
+        <xhtml:link rel="alternate" hreflang="tr" href="https://yalin.consulting/tr/cerez-politikasi.html"/>
+        <lastmod>2025-12-24</lastmod>
+        <changefreq>yearly</changefreq>
+        <priority>0.3</priority>
+    </url>
+    
+    <!-- ================================
+         LEGAL: TERMS OF SERVICE
+         ================================ -->
+    <url>
+        <loc>https://yalin.consulting/en/terms-of-service.html</loc>
+        <xhtml:link rel="alternate" hreflang="en" href="https://yalin.consulting/en/terms-of-service.html"/>
+        <xhtml:link rel="alternate" hreflang="tr" href="https://yalin.consulting/tr/kullanim-kosullari.html"/>
+        <lastmod>2025-12-24</lastmod>
+        <changefreq>yearly</changefreq>
+        <priority>0.3</priority>
+    </url>
+    <url>
+        <loc>https://yalin.consulting/tr/kullanim-kosullari.html</loc>
+        <xhtml:link rel="alternate" hreflang="en" href="https://yalin.consulting/en/terms-of-service.html"/>
+        <xhtml:link rel="alternate" hreflang="tr" href="https://yalin.consulting/tr/kullanim-kosullari.html"/>
+        <lastmod>2025-12-24</lastmod>
+        <changefreq>yearly</changefreq>
+        <priority>0.3</priority>
+    </url>
+    
+    <!-- ================================
+         EXTERNAL: BLOG (Blogger)
+         ================================ -->
+    <url>
+        <loc>https://insights.yalin.consulting/</loc>
+        <lastmod>2025-12-24</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.8</priority>
+    </url>
+    
+</urlset>
