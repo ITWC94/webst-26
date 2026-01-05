@@ -1,33 +1,17 @@
-# robots.txt for Yalin Consulting
-# https://yalin.consulting
-
-# Allow all search engines to crawl everything
 User-agent: *
-Allow: /
+Disallow: /Assets/Images/
 
-# Sitemap location
-Sitemap: https://yalin.consulting/sitemap.xml
+User-agent: GPTBot
+Disallow: /
 
-# Crawl rate (optional - prevents overwhelming your server)
-# Uncomment if you experience high bot traffic
-# Crawl-delay: 10
+User-agent: CCBot
+Disallow: /
 
-# Block specific bots if needed (examples below - currently allowing all)
-# User-agent: AhrefsBot
-# Disallow: /
+User-agent: Google-Extended
+Disallow: /
 
-# User-agent: SemrushBot
-# Disallow: /
+User-agent: anthropic-ai
+Disallow: /
 
-# Block admin or private areas (if you add them later)
-# Disallow: /admin/
-# Disallow: /private/
-# Disallow: /temp/
-
-# Allow CSS and JS for Google to render pages properly
-Allow: /CSS/
-Allow: /JS/
-Allow: /Assets/
-
-# Note: GitHub Pages automatically serves this from root
-# Place this file in your repository root directory
+User-agent: Bytespider
+Disallow: /
