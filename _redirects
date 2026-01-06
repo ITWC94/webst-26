@@ -1,0 +1,4 @@
+# Cloudflare Pages redirects
+# This ensures 404.html is served for all 404 errors
+
+/* /404.html 404
