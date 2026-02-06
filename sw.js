@@ -11,7 +11,7 @@
  */
 
 // ⚠️ BUMP THIS VERSION ON EVERY DEPLOY TO BUST CACHE
-const CACHE_VERSION = 'v4.19-protected';
+const CACHE_VERSION = 'v4.20-gtm-analytics';
 const CACHE_NAME = `yalin-${CACHE_VERSION}`;
 const OFFLINE_URL = '404.html';
 
